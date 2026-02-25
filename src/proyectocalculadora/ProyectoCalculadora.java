@@ -17,7 +17,7 @@ public class ProyectoCalculadora {
         //Crear obj de la class CalculadoraEjemplo con valores 20 y 4
         CalculadoraEjemplo miCalculadora = new CalculadoraEjemplo(20.0, 4.0);
         
-        System.out.println("--- PROBANDO CALCULADORA HENAR ---");
+        System.out.println("--- PROBANDO CALCULADORA HENAR (VERSION 2)---");
         System.out.println("Operando 1: 20.0 | Operando 2: 4.0");
         System.out.println("-------------------------------------");
         
